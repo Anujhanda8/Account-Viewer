@@ -1,5 +1,11 @@
 # ACCOUNT-VIEWER
 
+## pre-prerequisite
+ Node: 12.16.2
+ Yarn: 1.22.4
+
+
+
 ## SETUP:
  yarn install
  yarn start
